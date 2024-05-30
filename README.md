@@ -22,3 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=Niyaljacob&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Niyaljacob&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
